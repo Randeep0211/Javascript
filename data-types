@@ -1,0 +1,17 @@
+Primitive data types
+
+- string
+- number
+- boolean
+- udefined
+- null
+- symbols
+- big int
+
+Reference data types
+
+- Array
+- Object
+- Function
+- Set
+- Maps
