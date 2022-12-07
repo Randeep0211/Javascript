@@ -58,3 +58,5 @@ let name = "Randeep Singh";
 // console.log(name.trimStart());
 // console.log(name.trimEnd());
 // console.log(name.trim());
+
+let str = "randeep";
